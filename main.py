@@ -4,9 +4,9 @@ import streamlit as st
 # -----------------------------
 # Configuração inicial
 # -----------------------------
-st.set_page_config(page_title="Nicolas", page_icon="🤐", layout="centered")
+st.set_page_config(page_title="Bico Fechado", page_icon="🤐", layout="centered")
 
-st.title("🤐 Bico Fechado")
+st.title("🤐 Nicolas")
 
 # -----------------------------
 # Caminhos dos arquivos
