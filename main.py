@@ -6,7 +6,7 @@ import streamlit as st
 # -----------------------------
 st.set_page_config(page_title="Bico Fechado", page_icon="🤐", layout="centered")
 
-st.title("🤐 Nicolas")
+st.title("🤐 Bico Fechado")
 
 # -----------------------------
 # Caminhos dos arquivos
